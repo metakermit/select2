@@ -1,0 +1,19 @@
+{
+  "name": "select2",
+  "version": "3.4.5",
+  "description": "Select2 3.4.5 with a package.json",
+  "main": "select2.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/metakermit/select2.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/metakermit/select2/issues"
+  },
+  "homepage": "https://github.com/metakermit/select2#readme"
+}
